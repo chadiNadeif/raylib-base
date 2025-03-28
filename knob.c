@@ -1,6 +1,6 @@
 #define KNOB_IMPLEMENTATION
 #include "knob.h"
-
+#define LAB_NAME "entrypoint"
 static const char *raylib_modules[] = {
     "rcore",
     "raudio",
